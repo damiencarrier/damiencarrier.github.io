@@ -15,6 +15,10 @@
                     "name": "JXL"
                 },
                 {
+                    "extension": "jxl",
+                    "name": "JXLB"
+                },
+                {
                     "extension": "jpg",
                     "name": "MOZJPEG"
                 },
